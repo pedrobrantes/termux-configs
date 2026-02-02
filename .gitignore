@@ -8,3 +8,5 @@ storage/
 !.bashrc
 !.bash_profile
 !.termux/
+.bash_history
+.android/

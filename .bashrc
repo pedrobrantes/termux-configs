@@ -14,3 +14,5 @@ ubuntu() {
         --bind "/data/data/com.termux/files:/mnt/termux_root" \
         --bind "$sd_path:/mnt/sdcard"
 }
+
+ubuntu
